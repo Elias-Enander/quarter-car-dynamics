@@ -30,7 +30,7 @@ $$\dot{v}(t) = H v(t) + g(t)$$
 ## Installation & Running
 
 ```bash
-git clone [https://github.com/Elias-Enander/quarter-car-dynamics.git](https://github.com/Elias-Enander/quarter-car-dynamics.git)
+git clone [2-DOF vehicle suspension](https://github.com/5b6jmgtby7-prog/quarter-car-dynamics.git)
 cd quarter-car-dynamics
 pip install -r requirements.txt
 python examples/run_simulation.py
